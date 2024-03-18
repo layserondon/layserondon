@@ -12,5 +12,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=layserondon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layserondon&layout=compact&langs_count=16&theme=dark"/>
 </div>
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Layse aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">      
+  <img align="center" alt="Layse linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />        
+  <img align="center" alt="Layse nano" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain.svg" />
+  <img align="center" alt="Layse bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+</div>
+
+##
 
 
