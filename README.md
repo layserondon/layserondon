@@ -21,7 +21,7 @@
 
 A portfolio of Python automation projects focused on solving practical problems and improving repetitive workflows.
 
-🔗 [View the project](YOUR_REPOSITORY_LINK)
+🔗 [View the project] (https://github.com/layserondon/Portifolio-AutoTasks-Python)
 
 ## 📚 Currently Learning
 
