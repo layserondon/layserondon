@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Layse 👋
 
-<!--
-**layserondon/layserondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Technology student  
+🐍 Focused on Python, automation, and backend development  
+🤖 Aspiring AI Engineer  
+💻 Building practical projects to strengthen my software engineering skills
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python (Programming Logic and POO)
+* Git & GitHub (Basic)
+* SQL (Concepts)
+* Java (POO)
+* JavaScript (Basic)
+* APIs (Concepts)
+* Process automation
+
+## 📌 Featured Project
+
+### AutoTasks Python
+
+A portfolio of Python automation projects focused on solving practical problems and improving repetitive workflows.
+
+🔗 [View the project](YOUR_REPOSITORY_LINK)
+
+## 📚 Currently Learning
+
+* Python
+* Data structures
+* APIs
+* Backend development
+* Process automation
+* Software engineering fundamentals
+
+## 🎯 What I'm Working Toward
+
+Building a strong foundation in software engineering and Python while developing practical projects that demonstrate problem-solving, automation, and backend development skills.
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_LINK)
