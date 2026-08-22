@@ -38,4 +38,4 @@ Building a strong foundation in software engineering and Python while developing
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_LINK)
+[LinkedIn](https://www.linkedin.com/in/layse-rondon/)
