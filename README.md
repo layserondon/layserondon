@@ -2,7 +2,7 @@
 
 🎓 Systems Analysis and Development student at UNINTER
 🐍 Focused on Python, backend development, and process automation
-🤖 Aspiring AI Engineer and Machine Learning
+🤖 Aspiring AI Engineer 
 💻 Building practical projects to develop my software engineering skills
 
 ## 🛠️ Technologies & Skills
