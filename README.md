@@ -2,7 +2,7 @@
 
 🎓 Computer Science Technology student  
 🐍 Focused on Python, automation, and backend development  
-🤖 Aspiring AI Engineer  
+🤖 Aspiring ML/AI Engneering  
 💻 Building practical projects to strengthen my software engineering skills
 
 ## 🛠️ Technologies
