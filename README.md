@@ -1,41 +1,54 @@
 # Hi, I'm Layse 👋
 
-🎓 Computer Science Technology student  
-🐍 Focused on Python, automation, and backend development  
-🤖 Aspiring ML/AI Engneering  
-💻 Building practical projects to strengthen my software engineering skills
+🎓 Systems Analysis and Development student at UNINTER
+🐍 Focused on Python, backend development, and process automation
+🤖 Aspiring AI Engineer and Machine Learning
+💻 Building practical projects to develop my software engineering skills
 
-## 🛠️ Technologies
+## 🛠️ Technologies & Skills
 
-* Python (Programming Logic and POO)
-* Git & GitHub (Basic)
-* SQL (Concepts)
-* Java (POO)
-* JavaScript (Basic)
-* APIs (Concepts)
-* Process automation
+* **Python** — programming logic, OOP, automation
+* **Backend** — Flask, REST APIs, SQLAlchemy
+* **Databases** — PostgreSQL, SQL fundamentals
+* **Java** — OOP
+* **JavaScript** — fundamentals
+* **Git & GitHub** — version control
+* **Software Engineering** — application structure, environment configuration, APIs
+* **Process Automation** — scripts and workflow automation
 
-## 📌 Featured Project
+## 📌 Featured Projects
+
+### Internal Request API
+
+A backend project evolving from a simple API into a corporate-style internal request management system.
+
+Currently focused on application structure, API development, database modeling, and relationships.
+
+🔗 [View the project](https://github.com/layserondon/internal-request-api)
 
 ### AutoTasks Python
 
-A portfolio of Python automation projects focused on solving practical problems and improving repetitive workflows.
+A collection of Python automation projects focused on solving practical problems and reducing repetitive tasks.
 
-🔗 [View the project] (https://github.com/layserondon/Portifolio-AutoTasks-Python)
+🔗 [View the project](https://github.com/layserondon/Portifolio-AutoTasks-Python)
 
 ## 📚 Currently Learning
 
-* Python
-* Data structures
-* APIs
-* Backend development
-* Process automation
+* Python and backend development
+* Data structures and algorithms
+* REST APIs
+* Database modeling and SQL
 * Software engineering fundamentals
+* Cloud fundamentals
+* AI and Machine Learning foundations
 
 ## 🎯 What I'm Working Toward
 
-Building a strong foundation in software engineering and Python while developing practical projects that demonstrate problem-solving, automation, and backend development skills.
+I'm building a strong foundation in software engineering through practical projects, with a focus on **Python, backend development, automation, and AI engineering**.
+
+My goal is to understand how real-world software is designed, built, tested, and maintained — not just to complete isolated coding exercises.
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/layse-rondon/)
+* [LinkedIn](https://www.linkedin.com/in/layse-rondon/)
+* [GitHub](https://github.com/layserondon)
