@@ -81,7 +81,7 @@ Atualmente, estou desenvolvendo projetos práticos para evoluir em engenharia de
 
 ### Backend e desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi,spring,postman&theme=dark" alt="Flask, Django, FastAPI, Spring e Postman"/>
+<img src="https://skillicons.dev/icons?i=flask,pytorch,fastapi,postman&theme=dark" alt="Flask, Pytorch, FastAPI e Postman"/>
 
 </div>
 
