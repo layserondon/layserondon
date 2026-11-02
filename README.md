@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-121212?style=for-the-badge&logo=linkedin&logoColor=B7FF00" alt="LinkedIn"/>
 </a>
 <a href="https://debugoucriandosites.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-121212?style=for-the-badge&logo=vercel&logoColor=B7FF00" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Freela-Explore-121212?style=for-the-badge&logo=vercel&logoColor=B7FF00" alt="Projeto Freelancer"/>
 </a>
 
 <br/><br/>
@@ -179,21 +179,24 @@ Repositório dedicado a projetos de automação, scripts e soluções para taref
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
+### 🌐 Projeto Freelancer — Debugou
 
-**Presença profissional**
+**Criação de sites para pequenos negócios**
 
-Site pessoal para apresentar minha trajetória, meus projetos e minha evolução em tecnologia.
+Projeto freelancer voltado ao desenvolvimento de landing pages e sites institucionais para pequenos negócios e profissionais autônomos, ajudando-os a fortalecer sua presença digital e gerar novas oportunidades.
 
 **Objetivos**
-- Centralizar projetos e informações profissionais.
-- Facilitar o acesso ao portfólio.
-- Apresentar minha direção de carreira.
+- Criar presença digital profissional para pequenos negócios.
+- Desenvolver landing pages e sites institucionais.
+- Apresentar serviços, produtos e informações comerciais de forma estratégica.
+- Ajudar empreendedores a ampliar suas oportunidades de negócio.
+
+**Público-alvo:** Pequenos negócios e profissionais autônomos.
 
 **Stack:** Desenvolvimento web
 
 <a href="https://debugoucriandosites.vercel.app/">
-  <img src="https://img.shields.io/badge/Acessar_site-B7FF00?style=for-the-badge&logo=vercel&logoColor=121212" alt="Acessar portfólio"/>
+  <img src="https://img.shields.io/badge/Acessar_site-B7FF00?style=for-the-badge&logo=vercel&logoColor=121212" alt="Acessar site da Debugou"/>
 </a>
 
 </td>
