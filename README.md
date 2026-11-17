@@ -1,8 +1,4 @@
-<!--
-  GITHUB PROFILE README
-  Personal brand: Layse Rondon
-  Theme: Dark / Neon Lime
--->
+ <!-- GITHUB PROFILE README | Layse Rondon | Dark / Neon Lime -->
 
 <div align="center">
 
@@ -17,18 +13,19 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-121212?style=for-the-badge&logo=linkedin&logoColor=B7FF00" alt="LinkedIn"/>
 </a>
 <a href="https://debugoucriandosites.vercel.app/">
-  <img src="https://img.shields.io/badge/Freela-Explore-121212?style=for-the-badge&logo=vercel&logoColor=B7FF00" alt="Projeto Freelancer"/>
+  <img src="https://img.shields.io/badge/Debugou-Explore-121212?style=for-the-badge&logo=vercel&logoColor=B7FF00" alt="Debugou"/>
 </a>
 
 <br/><br/>
 
-**Transformando processos em soluções através do código.**
+**Transformando problemas em soluções através do código.**
 
-[ Sobre mim ](#-sobre-mim) ·
-[ Tecnologias ](#-tech-stack) ·
-[ Projetos ](#-projetos-em-destaque) ·
-[ Estatísticas ](#-github-analytics) ·
-[ Contato ](#-vamos-conversar)
+[ Sobre mim ](#-01--sobre-mim) ·
+[ Tecnologias ](#-02--tech-stack) ·
+[ Projetos ](#-03--projetos-em-destaque) ·
+[ Estatísticas ](#-04--github-analytics) ·
+[ Carreira ](#-05--direção-de-carreira) ·
+[ Contato ](#-06--vamos-conversar)
 
 </div>
 
@@ -38,32 +35,36 @@
 
 ```python
 class LayseRondon:
+
     def __init__(self):
-        self.education = "Análise e Desenvolvimento de Sistemas"
-        self.focus = [
+        self.education = "Análise e Desenvolvimento de Sistemas | UNINTER"
+        self.languages = ["Python", "Java", "JavaScript"]
+        self.interests = [
             "Software Engineering",
             "Process Automation",
-            "Artificial Intelligence",
+            "Generative AI",
+            "Machine Learning"
         ]
-        self.languages = ["Python", "Java", "JavaScript"]
-        self.current_goal = "Grow into AI/ML Engineering"
+        self.current_focus = "Building practical AI applications"
+        self.career_goal = "AI/ML Engineering"
 
     def philosophy(self):
-        return "Understand the problem. Design the solution. Automate the process."
+        return "Understand the problem. Design the solution. Build with purpose."
 
 
 layse = LayseRondon()
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UNINTER**, construindo minha base em desenvolvimento de software com foco em automação, APIs e Inteligência Artificial.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na UNINTER**, com interesse em engenharia de software, automação e Inteligência Artificial.
 
-Gosto de entender como os sistemas funcionam, estruturar soluções e transformar tarefas manuais em processos mais eficientes.
+Gosto de entender como os sistemas funcionam, investigar problemas e estruturar soluções que transformem processos manuais em aplicações mais eficientes.
 
-Atualmente, estou desenvolvendo projetos práticos para evoluir em engenharia de software e construir, a longo prazo, minha carreira em **AI/ML Engineering**.
+Atualmente, desenvolvo projetos práticos envolvendo Python, APIs, processamento de dados e aplicações com GenAI. Meu objetivo é construir uma base sólida em engenharia de software e evoluir para **AI/ML Engineering**.
 
-- **Interesses:** desenvolvimento backend, automação, APIs e IA.
-- **Aprendizado:** projetos práticos, testes, arquitetura e resolução de problemas.
-- **Objetivo:** construir soluções úteis, confiáveis e escaláveis.
+- **Interesses:** Backend, automação, engenharia de IA e sistemas inteligentes.
+- **Abordagem:** resolução de problemas, experimentação e aprendizado orientado a projetos.
+- **Foco atual:** desenvolvimento de aplicações com Python e exploração de LLMs.
+- **Objetivo:** construir soluções úteis, confiáveis e bem estruturadas.
 
 ---
 
@@ -77,11 +78,11 @@ Atualmente, estou desenvolvendo projetos práticos para evoluir em engenharia de
 
 ### Banco de dados, ferramentas e ambiente
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,docker,vscode&theme=dark" alt="PostgreSQL, MySQL, Git, GitHub, Linux, Docker e VS Code"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,linux,docker,vscode&theme=dark" alt="PostgreSQL, MySQL, SQLite, Git, GitHub, Linux, Docker e VS Code"/>
 
 ### Backend e desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=flask,pytorch,fastapi,postman&theme=dark" alt="Flask, Pytorch, FastAPI e Postman"/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postman&theme=dark" alt="Flask, FastAPI e Postman"/>
 
 </div>
 
@@ -93,14 +94,16 @@ Atualmente, estou desenvolvendo projetos práticos para evoluir em engenharia de
 | Área | Tecnologias e conceitos |
 |:---|:---|
 | Linguagens | Python, Java e JavaScript |
-| Backend | APIs REST, Flask e fundamentos de desenvolvimento web |
-| Dados | SQL, PostgreSQL, MySQL e manipulação de planilhas |
+| Backend | Flask, APIs REST e fundamentos de FastAPI |
+| Inteligência Artificial | LLMs, GenAI e Prompt Engineering |
+| Dados | SQL, PostgreSQL, MySQL, SQLite e processamento de planilhas |
 | Engenharia de software | POO, organização de código e testes |
+| Desenvolvimento musical | Music21 e teoria musical computacional |
 | Ferramentas | Git, GitHub, Linux e WSL |
 | Cloud | Fundamentos de AWS |
-| Próximo objetivo | Machine Learning e Engenharia de IA |
+| Próximo objetivo | Machine Learning e AI Engineering |
 
-*Esta seção representa minha trilha de aprendizado; não significa domínio profissional de todas as tecnologias listadas.*
+*As tecnologias representam minha experiência prática e trilha de aprendizado em diferentes estágios, não necessariamente domínio profissional de todas elas.*
 
 </details>
 
@@ -108,29 +111,29 @@ Atualmente, estou desenvolvendo projetos práticos para evoluir em engenharia de
 
 ## `03` — Projetos em destaque
 
-Projetos que representam minha evolução em desenvolvimento de software e automação.
+Projetos que representam minha evolução em desenvolvimento de software, automação e Inteligência Artificial.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ AutoOps
+### 🧠 R&B Studio Intelligence
 
-**Automação e validação de dados**
+**Aplicação experimental de GenAI para composição musical**
 
-Uma aplicação web para automatizar processos com planilhas Excel, validar dados e organizar fluxos de trabalho.
+Um guia inteligente especializado em Contemporary R&B, Alternative R&B e Neo Soul, desenvolvido para auxiliar no processo criativo por meio de análise musical e sugestões fundamentadas em teoria.
 
-**Objetivos técnicos**
-- Leitura e processamento de Excel.
-- Validação de dados.
-- Separação entre domínio e serviços.
-- Testes automatizados.
+**Exploração técnica**
 
-**Stack:** Python · Excel · Pytest
+- Engenharia de prompts e instruções de sistema.
+- Definição de identidade, comportamento e limites do agente.
+- Exploração de análise harmônica com Python e Music21.
+- Integração com modelos de linguagem (LLMs).
+- Planejamento de casos de teste e validação de respostas.
 
-<a href="https://github.com/layserondon/autoops">
-  <img src="https://img.shields.io/badge/Ver_projeto-B7FF00?style=for-the-badge&logo=github&logoColor=121212" alt="Ver AutoOps"/>
-</a>
+**Stack:** Python · Flask · Music21 · LLMs · Prompt Engineering
+
+<sub>Status: Em desenvolvimento.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -141,11 +144,13 @@ Uma aplicação web para automatizar processos com planilhas Excel, validar dado
 
 API para gerenciamento de solicitações internas, com estrutura de rotas, persistência de dados e endpoint de saúde.
 
-**Objetivos técnicos**
+**Implementações**
+
 - Desenvolvimento de endpoints.
 - Integração com PostgreSQL.
 - ORM com SQLAlchemy.
 - Organização de uma aplicação backend.
+- Configuração de ambiente e variáveis de execução.
 
 **Stack:** Python · Flask · PostgreSQL · SQLAlchemy
 
@@ -158,52 +163,52 @@ API para gerenciamento de solicitações internas, com estrutura de rotas, persi
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Portifolio AutoTasks Python
+### ⚙️ Python Automation
 
-**Automação com Python**
+**Automação e processamento de tarefas**
 
-Repositório dedicado a projetos de automação, scripts e soluções para tarefas repetitivas.
+Repositório dedicado a scripts e soluções em Python para automatizar atividades repetitivas e simplificar processos.
 
-**Possíveis aplicações**
+**Áreas de exploração**
+
 - Manipulação de arquivos.
 - Processamento de dados.
-- Automatização de tarefas.
+- Automação de tarefas.
 - Integração entre ferramentas.
 
 **Stack:** Python
 
 <a href="https://github.com/layserondon/Portifolio-AutoTasks-Python">
-  <img src="https://img.shields.io/badge/Ver_projeto-B7FF00?style=for-the-badge&logo=github&logoColor=121212" alt="Ver Portifolio AutoTasks Python"/>
+  <img src="https://img.shields.io/badge/Ver_projeto-B7FF00?style=for-the-badge&logo=github&logoColor=121212" alt="Ver Python Automation"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Projeto Freelancer — Debugou
+### 🌐 Debugou
 
-**Criação de sites para pequenos negócios**
+**Projeto freelancer | Desenvolvimento web**
 
-Projeto freelancer voltado ao desenvolvimento de landing pages e sites institucionais para pequenos negócios e profissionais autônomos, ajudando-os a fortalecer sua presença digital e gerar novas oportunidades.
+Iniciativa voltada à criação de landing pages e sites institucionais para pequenos negócios e profissionais autônomos.
 
 **Objetivos**
-- Criar presença digital profissional para pequenos negócios.
-- Desenvolver landing pages e sites institucionais.
-- Apresentar serviços, produtos e informações comerciais de forma estratégica.
-- Ajudar empreendedores a ampliar suas oportunidades de negócio.
+
+- Desenvolver presença digital profissional.
+- Criar páginas orientadas aos objetivos comerciais.
+- Apresentar serviços e informações de forma estratégica.
+- Explorar oportunidades de automação de processos.
 
 **Público-alvo:** Pequenos negócios e profissionais autônomos.
 
 **Stack:** Desenvolvimento web
 
 <a href="https://debugoucriandosites.vercel.app/">
-  <img src="https://img.shields.io/badge/Acessar_site-B7FF00?style=for-the-badge&logo=vercel&logoColor=121212" alt="Acessar site da Debugou"/>
+  <img src="https://img.shields.io/badge/Acessar_site-B7FF00?style=for-the-badge&logo=vercel&logoColor=121212" alt="Acessar Debugou"/>
 </a>
 
 </td>
 </tr>
 </table>
-
-> **Nota:** os links dos repositórios devem corresponder a projetos publicados no GitHub. Se o AutoOps ainda não estiver publicado com esse nome, substitua o link pelo endereço correto quando criar o repositório.
 
 ---
 
@@ -228,42 +233,50 @@ Projeto freelancer voltado ao desenvolvimento de landing pages e sites instituci
 <details>
 <summary><b>▸ Como interpretar essas estatísticas?</b></summary>
 
-- **Estatísticas do GitHub:** mostram indicadores de atividade e contribuições reconhecidas pela ferramenta.
-- **Linguagens:** estimam a distribuição de linguagens nos repositórios públicos contabilizados.
-- **Streak:** representa sequências de dias com contribuições reconhecidas pelo serviço.
+- **GitHub Stats:** indicadores de atividade e contribuições reconhecidas.
+- **Top Languages:** distribuição estimada das linguagens nos repositórios públicos.
+- **Streak:** sequência de dias com contribuições reconhecidas.
 
-Os cartões são fornecidos por serviços externos e podem apresentar indisponibilidade ou limitações de atualização. A linguagem mais utilizada não representa, por si só, o nível de domínio de uma tecnologia.
+*Os cartões são fornecidos por serviços externos e podem apresentar indisponibilidade ou limitações de atualização.*
 
 </details>
 
 ---
 
-## `05` — Minha direção de carreira
+## `05` — Direção de carreira
 
 ```text
-Software Development
-        │
-        ▼
-Backend Engineering
-        │
-        ▼
-Automation & Data Processing
-        │
-        ▼
-Machine Learning & AI Engineering
+        Software Development
+                 │
+                 ▼
+        Backend Engineering
+                 │
+                 ▼
+       Automation & Data
+                 │
+                 ▼
+       Generative AI Systems
+                 │
+                 ▼
+       Machine Learning
+                 │
+                 ▼
+          AI Engineering
 ```
 
-Meu objetivo é desenvolver uma base sólida em engenharia de software antes de avançar para sistemas inteligentes.
+Minha direção profissional é construir sistemas inteligentes a partir de fundamentos sólidos de engenharia de software.
 
-Quero aprender a construir aplicações bem estruturadas, trabalhar com dados e APIs e, progressivamente, desenvolver soluções que integrem automação e Inteligência Artificial.
+Quero aprofundar meus conhecimentos em desenvolvimento backend, arquitetura, dados e integração de APIs, avançando progressivamente para aplicações com Inteligência Artificial e Machine Learning.
+
+Acredito que compreender o problema, dominar os fundamentos e saber integrar tecnologias são partes essenciais da construção de soluções de IA.
 
 ---
 
 ## `06` — Vamos conversar?
 
-Estou construindo minha trajetória em tecnologia por meio de estudos e projetos práticos.
+Estou construindo minha trajetória em tecnologia por meio de estudos, experimentação e projetos práticos.
 
-Se você trabalha com desenvolvimento de software, automação ou Inteligência Artificial, será interessante trocar conhecimentos.
+Tenho interesse em trocar conhecimentos com pessoas que trabalham com desenvolvimento de software, automação, dados e Inteligência Artificial.
 
 <div align="center">
 
@@ -274,7 +287,7 @@ Se você trabalha com desenvolvimento de software, automação ou Inteligência 
   <img src="https://img.shields.io/badge/LinkedIn-Connect-121212?style=for-the-badge&logo=linkedin&logoColor=B7FF00" alt="LinkedIn"/>
 </a>
 <a href="https://debugoucriandosites.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-121212?style=for-the-badge&logo=vercel&logoColor=B7FF00" alt="Portfólio"/>
+  <img src="https://img.shields.io/badge/Debugou-Explore-121212?style=for-the-badge&logo=vercel&logoColor=B7FF00" alt="Debugou"/>
 </a>
 
 <br/><br/>
